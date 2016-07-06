@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chuongvo/test-project.git"
+    "url": "https://github.com/chuong2v/sails-test.git"
   },
   "author": "chuongvo",
   "license": ""
